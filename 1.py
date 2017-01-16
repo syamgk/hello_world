@@ -1,2 +1,2 @@
-print "hello world\ngood morning "
+print "hello world\n"
 
